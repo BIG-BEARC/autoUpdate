@@ -29,7 +29,7 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 2.6.19</title>
             #发行说明-读取html方式(2选1)
             <sparkle:releaseNotesLink>
                 https://your_domain/your_path/release_notes.html
