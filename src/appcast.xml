@@ -31,9 +31,9 @@
         <item>
             <title>Version 2.6.19</title>
             #发行说明-读取html方式(2选1)
-            <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
-            </sparkle:releaseNotesLink>
+<!--            <sparkle:releaseNotesLink>-->
+<!--                https://your_domain/your_path/release_notes.html-->
+<!--            </sparkle:releaseNotesLink>-->
             #发行说明-写死方式(2选1)
             <description>
                 <![CDATA[
@@ -43,7 +43,7 @@
             </ul>
                 ]]>
             </description>
-            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
+            <pubDate>Sun, 16 Feb 2025 12:00:00 +0800</pubDate>
             #你更新程序的地址
             <enclosure url="https://github.com/BIG-BEARC/autoUpdate/tree/master/src/cashier.exe"
                        sparkle:dsaSignature="MDwCHCzH7sYC+diq7HaIPG+TGBwl/YJu0Kj+UIMlVmUCHC+vqd2glo5WM3LyW+TBpMQDEpMRJS8xbPI6afs="
